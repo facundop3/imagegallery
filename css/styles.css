@@ -1,0 +1,52 @@
+header{
+  background-color: #ffffff;
+  border: 2px solid red;
+}
+header a img{
+  width: 100px;
+  height: auto;
+}
+body{
+  margin: 0;
+}
+ul{
+  list-style-type: none;
+}
+.logo{
+  display: inline-block;
+}
+.main-image-section{
+  background-color: #efefef;
+  height: 490px;
+}
+.main-image{
+  width: 600px;
+}
+.over-image-text{
+  background: red;
+}
+.mosaico{
+  display: inline-block;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+figure{
+  display: inherit;
+}
+.mosaico-image{
+  width: 300px;
+  height: auto;
+
+}
+.nav-header-bar{
+  font-size: 24px;
+  display:inline-block;
+}
+.nav-header-bar li,.nav-footer-bar li{
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.nav-header-bar ul li a, .nav-footer-bar ul li a{
+  text-decoration: none;
+}
